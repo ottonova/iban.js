@@ -2,7 +2,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/arhs/iban.js/master/LICENSE)
 
 >
-> This library is not maintained anymore
+> Fork of depreacted library https://github.com/arhs/iban.js
 > 
 
 
